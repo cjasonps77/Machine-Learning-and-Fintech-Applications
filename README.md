@@ -1,0 +1,1 @@
+This is the project from my fintech course. The report divided into 2 parts, the first report is mainly focus on visualization of data and pre processing part, the second report focus on the model building, model testing and fine tuning.   \
